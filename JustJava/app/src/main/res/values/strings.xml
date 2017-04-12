@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="order_success">Order placed</string>
+    <string name="order_fail">Order failed</string>
+</resources>

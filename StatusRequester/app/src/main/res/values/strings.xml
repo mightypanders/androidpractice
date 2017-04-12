@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StatusRequester</string>
+    <string name="lastchange">Last Change:</string>
+    <string name="aerie">Aerie:</string>
+    <string name="cellar">cellar:</string>
+    <string name="general">General:</string>
+    <string name="lastrequest">Last Request:</string>
+    <string name="open">open</string>
+    <string name="closed">closed</string>
+    <string name="unknown">unknown</string>
+</resources>
