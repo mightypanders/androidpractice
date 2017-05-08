@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingListHQ</string>
+    <string name="action_settings">Settings</string>
+    <string name="editText_hint_quantity">Anzahl</string>
+    <string name="editText_hint_product">Produkt</string>
+    <string name="button_add_product">+</string>
+    <string name="editText_error_message">Das Feld darf nicht leer sein.</string>
+    <string name="cab_delete">Einträge löschen</string>
+</resources>
